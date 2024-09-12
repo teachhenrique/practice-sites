@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+
+}
+
+.container {
+    text-align: center;
+    margin: 50px;
+    border-top: 1px double;
+    border-right: 1px double black;
+    border-bottom: 1px double;
+    padding: 20px;
+}
